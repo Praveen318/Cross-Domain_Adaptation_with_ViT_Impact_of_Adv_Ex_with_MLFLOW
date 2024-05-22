@@ -7,30 +7,29 @@ Through the meticulous application of MLflow, we meticulously chronicle each exp
 The insights gleaned from our study are poised to make a significant contribution to the ongoing discourse on machine learning robustness, particularly in the context of cross- domain adaptability. We anticipate that our findings will not only illuminate the path to more resilient machine learning architectures but also inspire the development of models that embody the beauty of adaptability, ready to face the multifaceted challenges of the future.
  
 Table of Contents
-1.	INTRODUCTION	4
-2.	OBJECTIVE	5
-3.	METHODOLOGY	6
-3.1	Adversarial Example Generation	6
-3.1.1	Threat Model	6
-3.1.2	Fast Gradient Sign Attack	6
-3.1.3	FGSM Attack	7
-3.2	Cross Domain Adaptation	7
-3.2.1	Literature Review	7
-3.2.2	Define the Domains	8
-3.2.3	Data Collection and Pre-processing	8
-3.2.4	Model Selection	8
-3.2.5	Adversarial Attack Generation	9
-3.2.6	Domain Adaptation Technique	9
-3.2.7	Model Training and Fine-tuning	10
-3.2.8	Evaluation	10
-3.2.9	Analysis and Improvement	10
-3.2.10	MLflow Integration	10
-4.	WORK FLOW	13
-5.	RESULT AND ANALYSIS	14
-6.	FUTURE WORK	18
-7.	CONCLUSION	18
-8.	REFERENCES	19
-9.	CONTRIBUTERS	20
+1.	INTRODUCTION	
+2.	OBJECTIVE	
+3.	METHODOLOGY	
+3.1	Adversarial Example Generation	
+3.1.1	Threat Model	
+3.1.2	Fast Gradient Sign Attack	
+3.1.3	FGSM Attack	
+3.2	Cross Domain Adaptation	
+3.2.1	Literature Review	
+3.2.2	Define the Domains	
+3.2.3	Data Collection and Pre-processing	
+3.2.4	Model Selection	
+3.2.5	Adversarial Attack Generation	
+3.2.6	Domain Adaptation Technique	
+3.2.7	Model Training and Fine-tuning	
+3.2.8	Evaluation	
+3.2.9	Analysis and Improvement	
+3.2.10	MLflow Integration	
+4.	WORK FLOW	
+5.	RESULT AND ANALYSIS	
+6.	FUTURE WORK	
+7.	CONCLUSION	
+8.	REFERENCES	
  
 1.	INTRODUCTION
 
