@@ -29,9 +29,10 @@ Table of Contents
 5.	RESULT AND ANALYSIS	
 6.	FUTURE WORK	
 7.	CONCLUSION	
-8.	REFERENCES	
- 
-1.	INTRODUCTION
+8.	REFERENCES
+
+
+1. INTRODUCTION
 
 In the rapidly evolving field of machine learning, one of the key challenges is the ability of models to generalize across different domains. This project focuses on the concept of cross- domain adaptation, specifically in the context of image classification tasks.
 The project involves two popular image datasets: CIFAR-10 and MNIST. CIFAR-10, consisting of 60,000 color images in 10 classes, serves as the source domain. On the other hand, MNIST, a dataset of handwritten digits, serves as the target domain. The goal is to train a model on the CIFAR-10 dataset and adapt it to perform well on the MNIST dataset.
